@@ -1,37 +1,40 @@
-<a href="https://plattyssh.github.io"><img src="banner.png" alt="Platty: every server, one calm window. A fast, native SSH client and terminal for Windows." /></a>
+<img src="banner.png" alt="Northlight" />
 
 <p align="center">
-  <a href="https://github.com/PlattySSH/platty/releases"><b>Download for Windows</b></a>
+  <a href="https://github.com/northlighthq/platty/releases"><b>Download Platty for Windows</b></a>
   &nbsp;·&nbsp;
-  <a href="https://plattyssh.github.io">Website</a>
+  <a href="https://github.com/northlighthq/platty/issues/new/choose">Report a bug</a>
   &nbsp;·&nbsp;
-  <a href="https://plattyssh.github.io/docs/">Docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/PlattySSH/platty/issues/new/choose">Report a bug</a>
+  <a href="https://github.com/northlighthq/branding">Brand</a>
 </p>
 
 ### What we're building
 
-Platty brings your hosts, keys, tunnels, SFTP and snippets into one window. It's written in Go and drawn on the GPU, with a terminal built from scratch, and everything you save stays encrypted on your PC. No account, no telemetry.
+Northlight makes tools for people who run servers. The first one is Platty, a fast, native SSH client and terminal for Windows: hosts, keys, tunnels, SFTP and snippets in one window. It's written in Go and drawn on the GPU, with a terminal built from scratch. Backups come next. No accounts, no telemetry, and everything you save stays encrypted on your machine.
 
 ### Repositories
 
-<img src="go.svg" height="14" alt="Go" /> [`platty`](https://github.com/PlattySSH/platty)\
-The app: hosts, terminal, SFTP, tunnels and keys in one window.
+<img src="go.svg" height="14" alt="Go" /> [`platty`](https://github.com/northlighthq/platty)\
+The SSH client: hosts, terminal, SFTP, tunnels and keys in one window.
 
-<img src="go.svg" height="14" alt="Go" /> [`vt`](https://github.com/PlattySSH/vt)\
+<img src="go.svg" height="14" alt="Go" /> [`vt`](https://github.com/northlighthq/vt)\
 A VT terminal emulator for Go with no GUI attached.
 
-<img src="go.svg" height="14" alt="Go" /> [`pty`](https://github.com/PlattySSH/pty)\
+<img src="go.svg" height="14" alt="Go" /> [`pty`](https://github.com/northlighthq/pty)\
 Start processes in a pseudo terminal on Windows, Linux and macOS.
 
-<img src="go.svg" height="14" alt="Go" /> [`glyphs`](https://github.com/PlattySSH/glyphs)\
+<img src="go.svg" height="14" alt="Go" /> [`glyphs`](https://github.com/northlighthq/glyphs)\
 A glyph rasterizer with color emoji, font fallback and ligatures.
 
-<img src="globe.svg" height="16" alt="" /> [`plattyssh.github.io`](https://github.com/PlattySSH/plattyssh.github.io)\
-The website and docs.
+<img src="globe.svg" height="16" alt="" /> [`landing`](https://github.com/northlighthq/landing)\
+The Northlight website.
 
+<img src="globe.svg" height="16" alt="" /> [`plattyssh.github.io`](https://github.com/northlighthq/plattyssh.github.io)\
+The Platty website and docs.
+
+<img src="globe.svg" height="16" alt="" /> [`branding`](https://github.com/northlighthq/branding)\
+The Northlight logo, colors and type, and the Platty mascot.
 
 ### Get involved
 
-Platty is in beta and grows with every release. Try it, [share an idea](https://github.com/PlattySSH/platty/issues/new/choose) or read the [contributing guide](https://github.com/PlattySSH/.github/blob/main/CONTRIBUTING.md). Everything is MIT licensed.
+Platty is in beta and grows with every release. Try it, [share an idea](https://github.com/northlighthq/platty/issues/new/choose) or read the [contributing guide](https://github.com/northlighthq/.github/blob/main/CONTRIBUTING.md). Everything is MIT licensed.
